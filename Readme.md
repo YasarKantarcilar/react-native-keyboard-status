@@ -5,17 +5,13 @@
 #### Install the package using npm
 
 ```javascript
-
 	npm install react-native-keyboard-status
-
 ```
 
 #### or yarn
 
 ```javascript
-
 	yarn add react-native-keyboard-status
-
 ```
 
 ## Hook API
